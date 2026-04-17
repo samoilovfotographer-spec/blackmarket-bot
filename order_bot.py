@@ -32,7 +32,7 @@ from telegram.ext import (
 
 # ─── НАСТРОЙКИ ───────────────────────────────────────────────────────────────
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN")
+BOT_TOKEN = "8555954260:AAF3Ek0cSwgxZGljHhU_rCKizzPq7TQXJ6o"
 ADMIN_ID       = 246653066
 ADMIN_CONTACT  = "@Samoilov_Stanislav"
 BOT_USERNAME   = "blackmarket_drop_bot"   # без @
